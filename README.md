@@ -4,5 +4,11 @@
 security and emergency, with a service that automatically collect news, filter the news relevant for satellite data services and
 task satellite to acquire information.  
 **My roles:** manage comunication between my group and other groups, developed the information retrival process to recive  
-alerts of a possible critical event from different sources and filter only alerts that generate a visible impact.
-**Members:** Team work of 35 devided in 7 groups.  
+alerts of a possible critical event from different sources and filter only alerts that generate a visible impact.  
+**Contributors:** Team work of 35 devided in 7 groups.  
+Group1: 
+- Dounia faouzi
+- Alessia Marino
+- Marco Bonafini
+- Anna Barberio
+- Luca Alessandrini
