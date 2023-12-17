@@ -1,0 +1,4 @@
+*.csv
+Files/*
+database.json
+tryrequest.py
