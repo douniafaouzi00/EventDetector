@@ -1,4 +1,4 @@
-**Event detector**  
+# Event detector
 [ 2022 – 2023 ]  
 **Project:** Design a recommendation system for the acquisition of satellite data to monitor critical events primarily related to
 security and emergency, with a service that automatically collect news, filter the news relevant for satellite data services and
